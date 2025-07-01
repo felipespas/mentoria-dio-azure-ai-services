@@ -1,10 +1,10 @@
 {
-    "id": "2edc4dbe-6a03-4d2c-bbb4-9201e7687704",
+    "id": "3423f749-b5ab-40eb-8d3d-cd41cec6c445",
     "status": "Succeeded",
     "result": {
         "analyzerId": "business-card-analyzer",
         "apiVersion": "2025-05-01-preview",
-        "createdAt": "2025-07-01T13:43:25Z",
+        "createdAt": "2025-07-01T20:03:46Z",
         "warnings": [],
         "contents": [
             {
